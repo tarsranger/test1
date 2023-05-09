@@ -1,0 +1,19 @@
+:root {
+  --navbar-height: 3rem;
+  --sidebar-small-width: 3rem;
+}
+
+body {
+  padding-top: var(--navbar-height);
+  padding-left: var(--sidebar-small-width);
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+.cursor-pointer {
+  cursor: pointer;
+}
